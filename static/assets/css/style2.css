@@ -1,0 +1,55 @@
+*{
+    
+    font-family: 'Josefin Sans', sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+.fo-we{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 80px;
+}
+.nav-item{
+    
+}
+#element{
+    color: #829356;
+}
+.navbar-bg-color-onscroll {
+    transition: .3s ease-in;
+    background: #829356;
+    
+}
+.header-bg{
+    background: #000000
+}
+.skill-bg{
+    background: rgb(247, 247, 247);
+}
+span{
+    color: #829356;
+}
+.progress{
+    height: 5px;
+}
+.progress-bar{
+    
+    background-color: royalblue;
+}
+.footer-area{
+    background: rgb(247, 247, 247);
+    color: #000000;
+}
+/* Set the border color to the desired color */ 
+.dark-teal-text {
+    color: #004d40;
+    }

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: poppins;
+    font-size: 1rem;
+}
+
+
+.card{
+    background-color: #fff;
+    border: 0;
+    box-shadow: 0 0 35px 0 rgba(154, 161, 171, .15);
+}
+
+.card-header{
+    background-color: transparent;
+    border-bottom: 0;
+}
+
+.fa-sun-o{
+    font-size: 30px;
+}
+
+.search-box{
+    background-color: transparent;
+}
